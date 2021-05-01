@@ -2,9 +2,9 @@
 Dmitry Konstantinov
 
 ## **Contacts**
-	* telegram: @CasperNEw
-	* e-mail: CasperNEw@inbox.ru
-	* cv: https://caspernew.github.io/
+	* telegram: [@CasperNEw](https://t.me/CasperNEw)
+	* e-mail: [CasperNEw@inbox.ru](mailto:CasperNEw@inbox.ru)
+	* website: [CasperNEw.github.io](https://caspernew.github.io/)
 
 ## **Summury**
 I always strive for new knowledge and improvement of my skills
@@ -13,8 +13,8 @@ I always strive for new knowledge and improvement of my skills
 Swift, RxSwift
 
 ## **Code example**
-	* repositories: https://github.com/CasperNEw?tab=repositories
-	* favorite study project: https://github.com/CasperNEw/CraftYourProfile
+	* repositories: [CasperNEw/repositories](https://github.com/CasperNEw?tab=repositories)
+	* favorite study project: [CraftYourProfile](https://github.com/CasperNEw/CraftYourProfile)
 
 ## **Experience**
 	* 5 months of self-study and passing various courses in Swift
